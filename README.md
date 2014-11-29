@@ -1,6 +1,4 @@
- function RandomPos(){
- 
- 
+ function RandomPosImage(){
  $(".cardimage").remove();
     ballLeftPos = [];
     ballTopPos = [];
